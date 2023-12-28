@@ -1,7 +1,7 @@
 name: input_textfield
 description: "Package for input text field"
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/Deepanshi-Badwaya/input_textField.git
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
